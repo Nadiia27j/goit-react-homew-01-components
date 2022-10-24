@@ -1,4 +1,6 @@
 
+
+
 import  Profile  from './components/Profile/Profile'
 import  Statistics from './components/Statistics/Statistics'
 import FriendList from './components/FriendList/FriendList'
@@ -25,4 +27,5 @@ export default function App() {
         <FriendList friends={friends} />
         <TransactionHistory items={transactions} />
     </div>
+
 };

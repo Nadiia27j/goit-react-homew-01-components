@@ -1,3 +1,4 @@
+
 import PropTypes from 'prop-types';
 
 import css from './Statistics.module.css';
@@ -31,4 +32,5 @@ Statistics.propTypes = {
     percentage: PropTypes.number.isRequired,
   })
   ),
+
 }; 
