@@ -11,6 +11,7 @@ import friends from './components/friends/friends'
 import transactions from './components/transactions/transactions'
 
 
+
 export default function App() {
     return <div className="App">
         <Profile 
